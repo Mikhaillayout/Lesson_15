@@ -53,21 +53,21 @@
   width: 16px;
   height: 16px;
   display: inline-block;
-  background: url("../img/__page1/7blog/mic.svg") 0 0 no-repeat;
+  background: url("../img/page1/7blog/mic.svg") 0 0 no-repeat;
 }
 .article__img .article__img_video::before {
   content: "";
   width: 16px;
   height: 16px;
   display: inline-block;
-  background: url("../img/__page1/7blog/Play.svg") 0 0 no-repeat;
+  background: url("../img/page1/7blog/Play.svg") 0 0 no-repeat;
 }
 .article__img .article__img_article::before {
   content: "";
   width: 16px;
   height: 16px;
   display: inline-block;
-  background: url("../img/__page1/7blog/Files.svg") 0 0 no-repeat;
+  background: url("../img/page1/7blog/Files.svg") 0 0 no-repeat;
 }
 .article__info {
   display: flex;
@@ -96,14 +96,14 @@
 .calendar {
   width: 16px;
   height: 16px;
-  background: url("../img/__page1/7blog/calendar.svg") 50% no-repeat;
+  background: url("../img/page1/7blog/calendar.svg") 50% no-repeat;
 }
 .article__data {
 }
 .watch {
   width: 16px;
   height: 16px;
-  background: url("../img/__page1/7blog/watch.svg") 50% no-repeat;
+  background: url("../img/page1/7blog/watch.svg") 50% no-repeat;
 }
 .article__time {
 }
@@ -133,6 +133,6 @@
   content: "";
   width: 24px;
   height: 24px;
-  background: url("../img/__page1/7blog/Line\ \(Stroke\).svg") 50% no-repeat;
+  background: url("../img/page1/7blog/Line\ \(Stroke\).svg") 50% no-repeat;
 }
 /* ==================== Девятая секция === (Blog) === Конец === 2022-11 ==================== */

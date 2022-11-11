@@ -62,7 +62,7 @@
   height: 20px;
   display: inline-block;
   transform: translate(50%, 0%);
-  background: url("../img/__header/Person.svg") 0 0 no-repeat;
+  background: url("../img/header/Person.svg") 0 0 no-repeat;
 }
 
 .header__auth::after {

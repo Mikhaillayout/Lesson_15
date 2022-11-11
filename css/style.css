@@ -60,7 +60,7 @@ body {
   height: 100%;
   top: 0;
   left: 0;
-  background: url("../img/__page1/1main/illustration_02.svg") 0 0 / 100% auto no-repeat;
+  background: url("../img/page1/1main/illustration_02.svg") 0 0 / 100% auto no-repeat;
   opacity: 0;
   transition: all 1s ease 0s;
 }
@@ -97,7 +97,7 @@ body {
   width: 52px;
   height: 52px;
   border-radius: 50%;
-  background: #ff3f3a url("../img/__page1/1main/Polygon.svg") 55% no-repeat;
+  background: #ff3f3a url("../img/page1/1main/Polygon.svg") 55% no-repeat;
 }
 .title-main__subtitle::after {
   content: "";
@@ -243,7 +243,7 @@ body {
   width: 16px;
   height: 16px;
   display: inline-block;
-  background: url("../img/__page1/4our-benefits/Star.svg") 0 0 no-repeat;
+  background: url("../img/page1/4our-benefits/Star.svg") 0 0 no-repeat;
   transition: all 0.3s ease 0s;
 }
 .benefits__stage_shape::before {
@@ -251,7 +251,7 @@ body {
   width: 16px;
   height: 16px;
   display: inline-block;
-  background: url("../img/__page1/4our-benefits/shape.svg") 0 0 no-repeat;
+  background: url("../img/page1/4our-benefits/shape.svg") 0 0 no-repeat;
   transition: all 0.3s ease 0s;
 }
 .benefits__stage_vector::before {
@@ -259,7 +259,7 @@ body {
   width: 16px;
   height: 16px;
   display: inline-block;
-  background: url("../img/__page1/4our-benefits/Vector.svg") 0 0 no-repeat;
+  background: url("../img/page1/4our-benefits/Vector.svg") 0 0 no-repeat;
   transition: all 0.3s ease 0s;
 }
 .benefits__stage_vextor2::before {
@@ -267,7 +267,7 @@ body {
   width: 16px;
   height: 16px;
   display: inline-block;
-  background: url("../img/__page1/4our-benefits/Vector-1.svg") 0 0 no-repeat;
+  background: url("../img/page1/4our-benefits/Vector-1.svg") 0 0 no-repeat;
   transition: all 0.3s ease 0s;
 }
 .benefits__stage:hover {
@@ -276,16 +276,16 @@ body {
   color: #ff3f3a;
 }
 .benefits__stage_stars:hover::before {
-  background: url("../img/__page1/4our-benefits/Star_02.svg") 0 0 no-repeat;
+  background: url("../img/page1/4our-benefits/Star_02.svg") 0 0 no-repeat;
 }
 .benefits__stage_shape:hover::before {
-  background: url("../img/__page1/4our-benefits/shape_02.svg") 0 0 no-repeat;
+  background: url("../img/page1/4our-benefits/shape_02.svg") 0 0 no-repeat;
 }
 .benefits__stage_vector:hover::before {
-  background: url("../img/__page1/4our-benefits/Vector_02.svg") 0 0 no-repeat;
+  background: url("../img/page1/4our-benefits/Vector_02.svg") 0 0 no-repeat;
 }
 .benefits__stage_vextor2:hover::before {
-  background: url("../img/__page1/4our-benefits/Vector-1_02.svg") 0 0 no-repeat;
+  background: url("../img/page1/4our-benefits/Vector-1_02.svg") 0 0 no-repeat;
 }
 .benefits__info {
   display: flex;
